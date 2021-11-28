@@ -1,19 +1,16 @@
-# linux_cheat_sheet
-BromTeques's Linux Cheat Sheet
+# BromTeques's Linux Cheat Sheet
 
-NOW WRITTEN IN OBISIDIAN.MD FORMAT. IT'S HIGLY RECOMMENDED THAT YOU CLONE THE REPOSITORY AND OPEN IT IN A OBISIDIAN.MD COMPATIBLE READER.
+BromTeque's Linux Cheat Sheet is a personal collection of tips and tricks written in the obisidian.md knowledge base format. It's highly recommended to clone and view the repository in a compatible obisidian.md reader. E.g. the official www.obisidian.md client.
 
-E.g. The obsidian.md client found here: obsidian.md
+Improvements welcome. Please create an issue or pull request if you spot a mistake or feel something could be written better.
 
-Written with mainly Ubuntu 18.04-21.10 in mind.
+## Assumptions
 
-Cheat sheet assumes "nano" as preferred text editor.
+This cheat sheet is written mainly with Ubuntu Desktop 20.04 in mind.
 
-"su" not assumed
+"nano" is the preferred text editor.
 
-## Updating
-...
+"su" is not assumed.
 
-## Add Directory to Global Path
-Add ``/path/to/directory`` to the ``PATH=""`` variable in ``etc/environment`` with a ``:`` separator.
-Example: ``PATH="/usr/local/sbin:[...]:/path/to/directory"``
+## Where to begin
+Use the Index to navigate the knowledge base

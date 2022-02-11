@@ -10,6 +10,12 @@ Add ``/path/to/directory`` to the ``PATH=""`` variable in ``etc/environment`` wi
 
 Example: ``PATH="/usr/local/sbin:[...]:/path/to/directory"``
 
+### Also apply for sudo
+
+Run ``sudo visudo``.
+
+Add ``/path/to/directory`` to the ``Defaults        secure_path=""`` variable with a ``:`` separator.
+
 
 
 

@@ -6,7 +6,7 @@ Tips and tricks yet to be sorted and categorized.
 ...
 
 ## Add Directory to Global Path
-Add ``/path/to/directory`` to the ``PATH=""`` variable in ``etc/environment`` with a ``:`` separator.
+Add ``/path/to/directory`` to the ``PATH=""`` variable in ``/etc/environment`` with a ``:`` separator.
 
 Example: ``PATH="/usr/local/sbin:[...]:/path/to/directory"``
 
